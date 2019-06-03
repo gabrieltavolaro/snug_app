@@ -9,9 +9,9 @@ Snug é um aplicativo que conecta prestadores de serviços domésticos a potenci
 - Marcelo Augusto
 - Stefany Ramos
 
-### Conteúdo do App
+## Conteúdo do App
 
-[main.dart](lib/main.dart)
+- [main.dart](lib/main.dart)
 
 #### datas
 - [cart_service.dart](lib/datas/cart_service.dart)
