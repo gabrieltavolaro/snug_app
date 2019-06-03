@@ -30,8 +30,8 @@ Snug é um aplicativo que conecta prestadores de serviços domésticos a potenci
 - [worker_screen.dart](lib/screens/worker_screen.dart)
 
 #### tabs
-- [home__tab.dart](lib/tabs/home__tab.dart)
-- [services__tab.dart](lib/tabs/services__tab.dart)
+- [home__tab.dart](lib/tabs/home_tab.dart)
+- [services__tab.dart](lib/tabs/services_tab.dart)
 
 #### tiles
 - [cart_tile.dart](lib/tiles/cart_tile.dart)
